@@ -4,6 +4,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: green;
+    font-size: 20px;
+    text-align: left;
+}
+
 p {
     color: gray;
     font-size: 16px;
@@ -17,11 +23,3 @@ p {
     border: 1px solid #ccc;
 }
 
-.container p {
-    color: green;
-    font-weight: bold;
-}
-
-.container p {
-    color: blueviolet;
-}
