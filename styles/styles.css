@@ -10,3 +10,14 @@ p {
     line-height: 1.5;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.container p {
+    color: green;
+    font-weight: bold;
+}
