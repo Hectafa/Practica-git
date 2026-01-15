@@ -21,3 +21,7 @@ p {
     color: green;
     font-weight: bold;
 }
+
+.container p {
+    color: blueviolet;
+}
